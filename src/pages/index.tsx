@@ -1,5 +1,5 @@
-import Board from "./tictactoe";
+import TodoMain from './todos/TodoMain';
 
 export default function Home() {
-  return <Board />;
+  return <TodoMain />;
 }
